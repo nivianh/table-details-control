@@ -1,0 +1,11 @@
+{
+    "id": "nivianh/table-details-control",
+    "name": "Table Details Control",
+    "namespace": "Plugin\\TableDetailsControl\\",
+    "provider": "Plugin\\TableDetailsControl\\Providers\\TableDetailsControlServiceProvider",
+    "author": "nivianh",
+    "url": "https://github.com/nivianh",
+    "version": "0.0.1",
+    "description": "",
+    "minimum_core_version": "7.4.5"
+}
